@@ -16,8 +16,8 @@
 title: Dr Mukherjee's blog on WBSC exams
 email:  Ace.india87@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This blog contains some lessons learnt by Soumik over long professional career
-  and his thoughts on how best one can implement / leverage specific technologies.
+  This blog contains some insights shared by Dr Mukherjee on various subjects tested in civil service exams 
+  (particulary WBCS exam - both preliminary and main exam).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  
