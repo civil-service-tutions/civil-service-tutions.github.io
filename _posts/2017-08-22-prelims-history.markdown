@@ -11,4 +11,5 @@ This is a post that I am going to write on History as I have already discussed t
 
 The basic recommendation of the books that I would suggest include the following:
 * NCERT class 11-12 (India related)
-* Any class 10 bengal bord book like jibon mukhopadhay 
+* Any class 10 Bengal board book like jibon mukhopadhay
+* 
